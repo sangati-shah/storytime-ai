@@ -42,3 +42,32 @@ pip install -r requirements.txt
 ```bash
 OPENAI_API_KEY=your_openai_key_here
 ```
+
+## Usage
+Run the Gradio web interface:
+```bash
+python story_app.py
+```
+- Select a category or choose “Random”
+- Enter a story prompt
+- Generate your story
+- Provide optional feedback to refine the story iteratively
+
+## Testing
+Unit tests are included and can be run with pytest:
+```bash
+pytest -v
+```
+
+## Technologies Used
+- Python 3.9+
+- OpenAI GPT-4o
+- Gradio for the web interface
+- Python-dotenv for environment variable management
+- Pytest for unit testing
+
+## Future Improvements
+- Add story history sidebar to view previous iterations.
+- Integrate voice narration for generated stories.
+- Add downloadable PDF export of the stories.
+- Include more categories and story templates.
