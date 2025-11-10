@@ -27,3 +27,18 @@ This project uses OpenAI's GPT-4o model to generate short, engaging, safe, and m
 ```bash
 git clone https://github.com/<your-username>/hippocratic-bedtime-ai.git
 cd hippocratic-bedtime-ai
+```
+2. Create a virtual environment (optional but recommended):
+```bash
+python -m venv venv
+source venv/bin/activate  # Linux/macOS
+venv\Scripts\activate     # Windows
+```
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+4. Create a .env file in the root with your OpenAI API key:
+```bash
+OPENAI_API_KEY=your_openai_key_here
+```
