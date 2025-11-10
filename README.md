@@ -17,9 +17,12 @@ This project uses OpenAI's GPT-4o model to generate short, engaging, safe, and m
 
 ## Demo
 
-![Demo Screenshot](screenshot.png)  <!-- Optional: add your own screenshot -->
+![Demo Screenshot](screenshot.png)
 
 ---
+
+## Diagram
+![Diagram Screenshot](diagram.png)  
 
 ## Installation
 
