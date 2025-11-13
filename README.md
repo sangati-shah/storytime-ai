@@ -70,7 +70,7 @@ pytest -v
 - Pytest for unit testing
 
 ## Future Improvements
-- Add story history sidebar to view previous iterations.
-- Integrate voice narration for generated stories.
-- Add downloadable PDF export of the stories.
-- Include more categories and story templates.
+- Improve the UI to look more like a childrens books. 
+- Create a library where users can save their favorite books. 
+- Improve the voice narration to sound more human, perhaps even incorporating my own voice in to make it sound like I am reading the story. 
+- Allow for more customization: story length, categories, changing the color of the interface.
