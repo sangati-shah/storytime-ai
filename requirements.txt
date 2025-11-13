@@ -1,4 +1,11 @@
-openai
-python-dotenv
 gradio
-pytest
+openai
+pyttsx3
+python-dotenv
+pillow
+
+pytest>=7.4.0
+pytest-cov>=4.1.0
+pytest-mock>=3.11.1
+pytest-asyncio>=0.21.1
+responses>=0.23.1
