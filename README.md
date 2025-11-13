@@ -65,6 +65,7 @@ pytest -v
 ## Technologies Used
 - Python 3.9+
 - OpenAI GPT-4o
+- Claude Sonnet 4.5
 - Gradio for the web interface
 - Python-dotenv for environment variable management
 - Pytest for unit testing
